@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mantine-focus-auto {
+  background-color: grey;
+  
+}
+
+.mantine-MiniCalendar-root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.mantine-MiniCalendar-days {
+  display: flex;
+  gap: 15px;
+}
+
+.mantine-MiniCalendar-day {
+  cursor: pointer;
+  height: 50px;
+} .mantine-MiniCalendar-day:hover {
+  background-color: lightgrey;
+}
