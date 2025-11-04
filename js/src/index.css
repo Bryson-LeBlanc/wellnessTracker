@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -32,6 +32,7 @@ code {
 .mantine-MiniCalendar-day {
   cursor: pointer;
   height: 50px;
+  width: 60px;
 } .mantine-MiniCalendar-day:hover {
   background-color: lightgrey;
-}
+} */
